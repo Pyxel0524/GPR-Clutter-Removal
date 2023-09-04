@@ -3,4 +3,4 @@ An implementation of paper:  “Learning to remove clutter in real-world GPR ima
 <br>Test dataset link: https://drive.google.com/drive/folders/1x1GBVS-XoHGlQZZ4HaYWV_-387AUNkHy?usp=sharing
 <br>Pretrain model: https://drive.google.com/file/d/13tAg-4iKRogASyxSwdBGgpmJMw8l04NA/view?usp=sharing
 <br>
-![demo](CR-Net/demo.png)
+![demo](./demo.png)
